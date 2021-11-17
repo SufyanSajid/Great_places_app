@@ -28,6 +28,12 @@
 	<string>We need to use a Camera!</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>We need to use a MicroPhone!</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need to use a Location!</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We need to use a Location1!</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>We need to use a Location2!</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
